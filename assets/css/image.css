@@ -1,0 +1,25 @@
+.gallery{
+    
+    width: 100vw;
+    height: 60vh;
+    margin-bottom: 50px;
+    position: relative;
+    
+}
+
+#imgs{
+    height: 50vh;
+    align-self: left;
+    
+    
+}
+
+
+
+#text{
+    
+    color: black;
+    
+    
+font-size: larger;
+}
